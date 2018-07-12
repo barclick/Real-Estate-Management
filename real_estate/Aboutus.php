@@ -21,6 +21,8 @@
    <div class="container-fluid">
    <div class="navbar-header">
     <a class="navbar-brand" href="#">Gift Real Estate</a>
+    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span> 
       </button>
