@@ -1,0 +1,54 @@
+body {
+	background: #ffb744 url(../images/bg-body.jpg) repeat left bottom;
+	font-family: "Times New Roman", Times, serif;
+	margin: 0;
+	font-size: 17px;
+}
+#footers {
+	color: #594334;
+	font-size: 14px;
+	line-height: 48px;
+	margin: -3px 0 0px;
+	padding-top: 42px;
+}
+#footers > div {
+	background-color: #ac9e94;
+	height: 48px;
+	width: 1000px;
+	border-bottom: 1px solid #72675f;
+	border-top: 1px solid #cdbeb2;
+	margin: 0 auto;
+	padding: 0 20px;
+	text-align: right;
+}
+#footers ul.fonavigation {
+	float: left;
+	display: inline-block;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+    text-transform: uppercase;
+}
+#footers ul.fonavigation li {
+	float: left;
+	margin-right: 5px;
+}
+#footers ul.fonavigation li a {
+	color: #594334;
+	padding: 0 6px;
+	text-decoration: none;
+}
+#footers ul.fonavigation li:first-child a {
+	border-left: 0;
+	padding-left: 0;
+}
+#footes ul.fonavigation li a:hover {
+	color: #eee7c3;
+}
+#footers ul.nonavigation li.active a {
+	color: #fff;
+}
+#footers p {
+	text-align: left;
+	text-transform: none;
+}

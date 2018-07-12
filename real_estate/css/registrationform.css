@@ -1,0 +1,64 @@
+#feedbackbutton 
+   {
+  padding: 10px;
+    background-color: #09F;
+
+      margin-left: 300px;
+      border: 0;
+      color: #FFF;
+      cursor: pointer;
+      border-radius: 20px;
+
+   }
+   #clear
+   {
+  padding: 10px;
+    background-color:#09F;
+    margin-left: 30px;
+    border: 0;
+    color: #FFF;
+    cursor: pointer;
+    border-radius: 20px;
+
+   }
+#view 
+   {
+  padding: 0px;
+    background-color: #21AEF3;
+    border-radius: 30px;
+    width: 170px;
+
+   }
+    #Feature 
+   {
+  padding: 0px;
+    background-color: #21AEF3;
+   }
+   a:link {
+    color: red;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+.readmore
+{ font: bold 110% Arial, Helvetica, sans-serif;
+  float: right;
+  margin-left: 95px;
+  padding: 5px 10px 7px 10px;
+  background: #382922;
+  background: -moz-linear-gradient(#554137, #382922);
+  background: -o-linear-gradient(#554137, #382922);
+  background: -webkit-linear-gradient(#554137, #382922);
+  border-radius: 15px 15px 15px 15px;
+  -moz-border-radius: 15px 15px 15px 15px;
+  -webkit-border: 15px 15px 15px 15px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px;}
+  
+ .readmore a
+{ color: #FFF;
+  text-shadow: 1px 1px #000;}

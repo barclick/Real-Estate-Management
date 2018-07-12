@@ -1,0 +1,51 @@
+#loginForm{
+	background-color: #0098cb;
+}
+#loginImage{
+	margin-top: 15px;
+}
+.loginname,.loginpass{
+outline: none;
+padding: 5px;
+display:block;
+border: 1px solid #eee;
+margin: 5px;
+background-color: #eee;
+}
+
+.loginbt{
+padding: 5px;
+color: #fff;
+background:#0098cb;
+width: 150px;
+margin:20px;
+margin-top: 0px;
+border: 0px;
+border-radius: 3px;
+cursor: pointer;
+}
+.loginbt:hover{
+background:#00eeee;
+}
+.mainclock{
+padding: 5px;
+border-radius: 3px;
+border: 1px solid #eee;
+margin: 5px;
+background:pink;
+}
+#forgetId{
+	margin-top: 25px;
+
+}
+
+#passwordLabel{
+	border: 3px;
+	font-size: 20px;
+	background-color: #0098cb;
+}
+#usernameLabel{
+	border: 0px;
+	font-size: 20px;
+	background-color: #0098cb;
+}
