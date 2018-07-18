@@ -1,2 +1,2 @@
 # Real-Estate-Management
-This is real estate management system which have 3 roles Administrator, Seller and buyers. 
+This project have a lot of mess code but the project was my first project so i put the code as it is. It is real estate management system which have 3 roles Administrator, Seller and buyers. Administrator can accept or reject registered sellers account based on the information they provided during registration, delete posted real estate and also he can delete buyers account. Seller can post their real estate and view messages from buyers. Buyer can search real estate and send message to sellers.
